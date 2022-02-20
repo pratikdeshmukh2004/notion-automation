@@ -23,7 +23,7 @@
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f462099-36f1-4b71-a8d2-b5ce88ef3900/a_dp9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=65558bf939acc4969c3ee2b4959c0c8300303e5e1ef90f9ac1d62881edea6fd7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f462099-36f1-4b71-a8d2-b5ce88ef3900/a_dp9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=fc889c1e67ec8c20d0e20c90319c1de3b1200a155e1f767a5c721d898b6f1cdc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
     "Content": [
       "Anand is an alumnus of NavGurukul and currently, he is working for Meraki as a backend developer.",
@@ -265,7 +265,7 @@
     "LinkedIn": "https://www.linkedin.com/in/abhishek-singh-20546741/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8bb56887-e317-419c-8a6f-b04426809151/WhatsApp_Image_2021-03-30_at_12.16.12_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=73c664c991c757ab02b4fe868a6eccdf940b9aac559714b9c8a2fce460bd9b9f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8bb56887-e317-419c-8a6f-b04426809151/WhatsApp_Image_2021-03-30_at_12.16.12_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=fdc518abe99f951198d61611d0f05ea9fd0a6e0a6faa7e56bdc37cbd4c21a183&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Abhishek Singh",
     "Content": []
   },
@@ -309,7 +309,7 @@
     "LinkedIn": "https://www.linkedin.com/in/suhaibroomy/",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1c7bd681-d124-4e59-992b-5dba86b8ae26/Image_from_iOS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=1f0c5e75b3ea99643288fcc4b3447aae27eccca272791de14b87613faf9005ce&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1c7bd681-d124-4e59-992b-5dba86b8ae26/Image_from_iOS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=bb6cf95cfb5eb8ec047290ac880413a69b8a0628f95426a1bb174f54b8d96903&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Suhaib Roomy",
     "Content": []
   },
@@ -323,7 +323,7 @@
     "LinkedIn": "https://www.linkedin.com/in/umang-mathur/",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/92c6a7f6-8184-4b61-aae5-f59ac696aeae/Profile.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=1a5c5931de2f320a2134222f523e62d8a34b410cac0448fcfa57359f680c2e7a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/92c6a7f6-8184-4b61-aae5-f59ac696aeae/Profile.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=1a55f3fa4e93fc72e8e833d6c184e82368b6ff3915ba836265218ddff6757afc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Umang Mathur",
     "Content": []
   },
@@ -365,7 +365,7 @@
     "LinkedIn": "https://www.linkedin.com/in/tarundugar/",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bdc65919-2c41-4443-af5e-20c81870d8bd/IMG_20200914_183643_171.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=2eff2711d66fb11386dc88ba34c676b2fd51569f9715b918763060ec1165cb59&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bdc65919-2c41-4443-af5e-20c81870d8bd/IMG_20200914_183643_171.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=83b01f77f23228edf2c2b5faeac8e46d353fca5dec4ce4a1c0b24570087afe11&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Tarun Dugar",
     "Content": []
   },
@@ -380,7 +380,7 @@
     "LinkedIn": "https://www.linkedin.com/in/shivamdewan/",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/561a0944-f9f5-4cb9-9481-ee7c19c6d6fa/Krati-final.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=a6ade998c850eeb160e7f722a795430a587b2bdb95ba24a6235b8494295b4b4e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/561a0944-f9f5-4cb9-9481-ee7c19c6d6fa/Krati-final.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=66e5b1cbd25f97c1597c2a3924c378f8a7baf044ff4e281d4e062261271a9c3b&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Shivam Dewan",
     "Content": []
   },
@@ -395,7 +395,7 @@
     "LinkedIn": "https://www.linkedin.com/in/samkhawase",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6dcf3874-54f2-4ac0-a395-b5e8c23ac8ba/avatar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=bd2b53cd8899fa0b74efe1a81d6ae89cb28649ab0a83c7de7e76b14a1a944fdc&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6dcf3874-54f2-4ac0-a395-b5e8c23ac8ba/avatar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=6db02ea187a7d28b62e81f135a1d58199533da3cc46a76217fc7cbeb316f9aae&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Sam Khawase",
     "Content": []
   },
@@ -425,7 +425,7 @@
     "LinkedIn": "https://www.linkedin.com/in/abhishekgupta92/",
     "Association": "Volunteer",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f2e2da6-8f91-4fb7-ad32-aa4a7ed4f278/ProfilePicture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=cdae5f866d48ec0de6a2b906da24e14cf49c8dffecb692ed6d946dcecd5be4c2&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f2e2da6-8f91-4fb7-ad32-aa4a7ed4f278/ProfilePicture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=ae4613f753ebbf0923243b790093fd7c8d7f4403f709e571b17ff0579f199384&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Abhishek Gupta",
     "Content": []
   },
@@ -439,7 +439,7 @@
     "LinkedIn": "https://www.linkedin.com/in/noopurvarma/?originalSubdomain=in",
     "Association": "Not Active",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e656b157-222d-4523-a566-91d6a46906b2/2021-01-16_20.08.35.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T093334Z&X-Amz-Expires=3600&X-Amz-Signature=c2fd0b38b95e9f425d9f011f92f89168cf8de3235ff2e0b5736055f12f9c9cc6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e656b157-222d-4523-a566-91d6a46906b2/2021-01-16_20.08.35.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220220T094540Z&X-Amz-Expires=3600&X-Amz-Signature=415cacc7b8645af81e8b0cc1b3495561ee1034e62ca30c779ba0be823d3b2a5f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Noopur Varma",
     "Content": []
   }
